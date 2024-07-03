@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Qappa">
+        <file>qmldir</file>
+        <file>Panel.qml</file>
+        <file>Blank.qml</file>
+        <file>Blanks/qmldir</file>
+        <file>Blanks/HorizontalTwoPanel.qml</file>
+        <file>Frame.qml</file>
+    </qresource>
+</RCC>

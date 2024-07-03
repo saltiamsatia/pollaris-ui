@@ -1,0 +1,7 @@
+module Qappa
+plugin Qappa
+typeinfo Qappa.qmltypes
+
+Blank 1.0 Blank.qml
+Frame 1.0 Frame.qml
+Panel 1.0 Panel.qml

@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/PollingGroupManagementUI.qml</file>
+        <file>qml/FieldButton.qml</file>
+        <file>qml/TransactionConfirmationUI.qml</file>
+        <file>qml/GroupMembersManagementUI.qml</file>
+        <file>qml/TransactionManagerUI.qml</file>
+        <file>qml/ListHeader.qml</file>
+        <file>qml/Transaction.qml</file>
+        <file>qml/TableEditController.qml</file>
+        <file>qml/Ribbon.qml</file>
+        <file>qml/StatusRibbon.qml</file>
+        <file>qml/BigX.qml</file>
+        <file>qml/JsUtils.js</file>
+        <file>qml/AssistantLogo.qml</file>
+        <file>qml/AssistantWindow.qml</file>
+        <file>qml/StartupWindow.qml</file>
+        <file>qml/TypingAnimation.qml</file>
+        <file>qml/AssistantDialogArea.qml</file>
+        <file>qml/AppManager.qml</file>
+        <file>qml/AssistantSeat.qml</file>
+        <file>qml/AppManager.Startup.js</file>
+        <file>qml/AsiText.qml</file>
+    </qresource>
+</RCC>
